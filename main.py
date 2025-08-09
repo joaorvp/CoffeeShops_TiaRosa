@@ -12,7 +12,7 @@ produtos = [
     {"codigo": 5, "nome": "Pão na chapa", "preco": 4.0, "estoque": 30},
     {"codigo": 6, "nome": "Bauru", "preco": 6.5, "estoque": 25},
     {"codigo": 7, "nome": "Pão de Queijo", "preco": 5.0, "estoque": 60},
-    {"codigo": 8, "nome": " Fatia Bolo de Cenoura", "preco": 8.5, "estoque": 24}
+    {"codigo": 8, "nome": "Fatia Bolo de Cenoura", "preco": 8.5, "estoque": 24}
 ]
 
 clientes = []
